@@ -1,0 +1,6 @@
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnectToPython\ConnectToPython\bin\Debug\ConnectToPython.dll
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnectToPython\ConnectToPython\bin\Debug\ConnectToPython.pdb
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnectToPython\ConnectToPython\obj\Debug\ConnectToPython.csprojAssemblyReference.cache
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnectToPython\ConnectToPython\obj\Debug\ConnectToPython.csproj.CoreCompileInputs.cache
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnectToPython\ConnectToPython\obj\Debug\ConnectToPython.dll
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnectToPython\ConnectToPython\obj\Debug\ConnectToPython.pdb

@@ -1,0 +1,11 @@
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\bin\Debug\CardVars_CSharp.exe.config
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\bin\Debug\CardVars_CSharp.exe
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\bin\Debug\CardVars_CSharp.pdb
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\bin\Debug\EPDM.Interop.epdm.dll
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\obj\Debug\CardVars_CSharp.csprojAssemblyReference.cache
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\obj\Debug\CardVars_CSharp.Properties.Resources.resources
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\obj\Debug\CardVars_CSharp.csproj.GenerateResource.cache
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\obj\Debug\CardVars_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\obj\Debug\CardVars_CSharp.csproj.CopyComplete
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\obj\Debug\CardVars_CSharp.exe
+C:\Users\FIlie\Documents\Felix Documents IPS\CSharp\Solidworks\CardVars_CSharp\CardVars_CSharp\obj\Debug\CardVars_CSharp.pdb

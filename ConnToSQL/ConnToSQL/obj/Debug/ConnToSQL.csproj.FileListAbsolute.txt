@@ -1,0 +1,7 @@
+c:\users\filie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnToSQL\ConnToSQL\bin\Debug\ConnToSQL.exe.config
+c:\users\filie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnToSQL\ConnToSQL\bin\Debug\ConnToSQL.exe
+c:\users\filie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnToSQL\ConnToSQL\bin\Debug\ConnToSQL.pdb
+c:\users\filie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnToSQL\ConnToSQL\obj\Debug\ConnToSQL.csprojAssemblyReference.cache
+c:\users\filie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnToSQL\ConnToSQL\obj\Debug\ConnToSQL.csproj.CoreCompileInputs.cache
+c:\users\filie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnToSQL\ConnToSQL\obj\Debug\ConnToSQL.exe
+c:\users\filie\Documents\Felix Documents IPS\CSharp\Solidworks\ConnToSQL\ConnToSQL\obj\Debug\ConnToSQL.pdb

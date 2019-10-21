@@ -1,0 +1,1 @@
+select impPartID, imbPartRevisionID, impLongDescriptionText, imbQuantityOnHand from Parts INNER JOIN PartRevisions on impPartID = imrPartID INNER JOIN PartBins on imbPartID = impPartID where impPartID = '1021-60-02368';
